@@ -1,0 +1,1 @@
+# The deep q learning algorithm on the cartpole virtual environment. CartPole, also known as inverted pendulum, is a game in which you try to balance the pole as long as possible. You can train the model and let the ai play this game(by running the dqn_rl.ipynb file) after installing the requirements.txt file(pip install requirements.txt).
